@@ -1,4 +1,2 @@
 # hello-world
-test repo
-test edit
-test edit from localhost with atom
+new modify from localhost 2018
